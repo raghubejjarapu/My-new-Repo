@@ -19,4 +19,4 @@ public class AddNumbers {
         input.close();
     }
 }
-
+Added hooks concept.
